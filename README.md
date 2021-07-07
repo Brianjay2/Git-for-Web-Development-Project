@@ -17,6 +17,9 @@ You will need to follow the Lambda School Git Workflow to add a file to this pro
 
 
 ## Task 2: MVP
+
+https://codepen.io/Jeremy21/pen/WNjwrLg?editors=1100
+
 1. fork this codepen https://codepen.io/BritHemming/pen/eYYEoPa?editors=1100
 2. You will be marking up all of the HTML and styling it to look like this: https://codepen.io/BritHemming/full/jONmxOm using CSS
 * this should be review from yesterday/ extra practice
